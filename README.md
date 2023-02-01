@@ -1,2 +1,2 @@
 # TraveuxSursLinkTree
-link : https://coolors.co/palettes/trending
+link : https://travauxsurs.github.io/TraveuxSursLinkTree/
